@@ -6,7 +6,7 @@ MVP da disciplina de Machine Learning & Analytics — Pós-graduação em Ciênc
 
 A entrega deste MVP é o notebook executável no Google Colab, disponível no link abaixo:
 
-**[Abrir o notebook no Google Colab](https://colab.research.google.com/drive/1TUQBNUHDZkNWEwo9R5COYTTUC10Icjca?usp=sharing)**
+[Abrir o notebook no Google Colab](https://colab.research.google.com/drive/1TUQBNUHDZkNWEwo9R5COYTTUC10Icjca?usp=sharing)
 
 O notebook roda do início ao fim sem configuração manual. Para executar, abra o link acima, vá em `Ambiente de execução` e depois `Executar tudo` (Runtime, Run all). A carga dos dados, na primeira execução, leva alguns minutos por baixar cerca de 500 MB do Hugging Face. Nenhuma chave de API, login ou arquivo local é necessário.
 
